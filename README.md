@@ -1,6 +1,10 @@
 
 <h2 align="left">        Hiii mein Name ist Masuru :3 </h2>
-<h3>Ich Programmiere in meiner Freizeit gerne und verbringe viel Zeit mit meiner Freundin</h3>
+<h3 style="font-family: 'Courier New', Courier, monospace; color: #3498db; text-shadow: 2px 2px #2c3e50;">
+    Ich programmiere in meiner Freizeit gerne und verbringe viel Zeit mit meiner Freundin
+</h3>
+
+
 
 ###
 
