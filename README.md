@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/bb/5c/a3/bb5ca380a364cad16a8625afa27bf98a.gif"/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif" />
 
 ###
 
