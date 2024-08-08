@@ -35,7 +35,6 @@
 
 <br clear="both">
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/<masuxru>/<repository>/output/github-contribution-grid-snake.svg)
 
 
 ###
