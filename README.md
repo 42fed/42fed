@@ -1,8 +1,14 @@
 
 <h2 align="left">        Hiii mein Name ist Masuru :3 </h2>
-<h3 style="font-family: 'Courier New', Courier, monospace; color: #3498db; text-shadow: 2px 2px #2c3e50;">
-    Ich programmiere in meiner Freizeit gerne und verbringe viel Zeit mit meiner Freundin 😎
-</h3>
+<div style="background-color: #f1c40f; padding: 20px; border-radius: 10px; border: 2px solid #e67e22; max-width: 600px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+    <h3 style="font-family: 'Courier New', Courier, monospace; color: #2c3e50; text-shadow: 1px 1px #ecf0f1; text-align: center;">
+        Programmieren ist meine Leidenschaft, und in meiner Freizeit verbringe ich gerne Zeit mit meiner Freundin 😎
+    </h3>
+    <p style="font-family: Georgia, serif; color: #34495e; font-size: 16px; text-align: center; margin-top: 10px;">
+        Ich bin 16 Jahre alt, komme aus NRW und freue mich auf mein Abitur!
+    </p>
+</div>
+
 
 
 
