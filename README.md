@@ -51,4 +51,3 @@
 
 ###
 
-<footer>L my belove 👩‍❤️‍👨</footer>
