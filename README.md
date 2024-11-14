@@ -44,13 +44,4 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="transition: transform 0.3s ease;"/>
 </div>
 
-<style>
-  img:hover {
-    transform: scale(1.1);
-    cursor: pointer;
-  }
-  div:hover {
-    transform: scale(1.05);
-  }
-</style>
 
