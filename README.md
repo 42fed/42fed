@@ -74,5 +74,7 @@
 </p>
 <hr />
 <p>
-  <strong>Organization:</strong> Example Orga Name
+  <strong>Organizations:</strong>
+  <a href="https://github.com/your-organization" target="_blank">Your Organization</a>, 
+  <a href="https://github.com/another-organization" target="_blank">Another Organization</a>
 </p>
