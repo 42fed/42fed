@@ -75,5 +75,5 @@
 <hr />
 <p>
   <strong>Organizations:</strong>
-  <a href="https://github.com/stimmen" target="_blank">stimmen</a>, 
+  <a href="https://github.com/stimmen" target="_blank">stimmen</a> 
 </p>
