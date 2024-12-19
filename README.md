@@ -1,4 +1,5 @@
 <h1>Possesive</h1>
+<p>Software Developer</p>
 
 ```
 
@@ -37,9 +38,6 @@
 ⠸⠀⢸⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣴⣿⠀⠀⠀⠀⠰⠏⢹⣦⡀⣸⣿⣿⣿⣿⣿⣿⣿⣿⡿⢏⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-
-
-<p>Software Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;">
