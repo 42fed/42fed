@@ -133,10 +133,10 @@
 </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=42feds&show_icons=true&locale=en&theme=dark" alt="zpossesive" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=42fed&show_icons=true&locale=en&theme=dark" alt="zpossesive" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=42feds&show_icons=true&locale=en&layout=compact&theme=dark" alt="zpossesive" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=42fed&show_icons=true&locale=en&layout=compact&theme=dark" alt="zpossesive" />
 </p>
 <hr />
 <p>
